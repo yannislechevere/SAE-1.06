@@ -27,6 +27,6 @@ Par la suite, une **soutenance orale** a été organisée pour présenter ce tra
 >
 >> Cette étape comprend le **diaporama** utilisé lors de la **soutenance orale** du rapport.  
 >>
->> 🔗 [Voir le diaporama](https://github.com/yannislechevere/SAE-1.06/blob/master/dossier_CHAUVEL_LE-SECH_LE-CHEVERE_GUIGUE.pdf)
+>> 🔗 [Voir le diaporama](https://github.com/yannislechevere/SAE-1.06/blob/master/Etape2-SoutenanceOrale/oral_CHAUVEL_LE-SECH_LE-CHEVERE_GUIGUE.pdf)
 >
 > </details>
