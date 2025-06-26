@@ -35,5 +35,6 @@ Par la suite, une **soutenance orale** a été organisée pour présenter ce tra
 
 # ✍️ Auteur
 
-LE CHEVERE Yannis
+Projet réalisé en binôme : 
+CHAUVEL Arthur, LE CHEVERE Yannis, LE SECH Marceau, GUIGUE Simon
 
